@@ -1,0 +1,6 @@
+.vscode/
+bazel-automotive_instrument_cluster
+bazel-bin
+bazel-out
+bazel-testlogs
+.gitignore
